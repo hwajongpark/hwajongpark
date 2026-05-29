@@ -11,3 +11,7 @@ I'm a product manager who builds and ships AI. I make small, sharp tools that ea
 | [utm-guard](https://github.com/hwajongpark/utm-guard) | Build UTM-tagged URLs from a controlled vocabulary that refuses unknown values, and lint your files for links that forgot their tags. | [![npm](https://img.shields.io/npm/v/utm-guard)](https://www.npmjs.com/package/utm-guard) |
 | [datagokr-client](https://github.com/hwajongpark/datagokr-client) | Typed TypeScript client for Korea's public-data APIs (data.go.kr). Fixes the service-key encoding bug, normalizes items, types the errors. | [![npm](https://img.shields.io/npm/v/datagokr-client)](https://www.npmjs.com/package/datagokr-client) |
 | [fact-drift](https://github.com/hwajongpark/fact-drift) | A Claude Code skill that watches the source pages behind the facts you cite (prices, limits, deadlines) and flags every file gone stale. | Claude Code plugin |
+
+## What I'm building
+
+[**Seoulstart**](https://seoulstart.com) is a practical, plain-language guide for people living in Korea on a foreign visa: visas, housing, insurance, taxes, and honest picks on the services and places that actually work. Published in six languages. I run the product, the content, and the AI pipeline behind it end to end.
