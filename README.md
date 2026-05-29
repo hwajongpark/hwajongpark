@@ -15,3 +15,4 @@ I'm a product manager who builds and ships AI. I make small, sharp tools that ea
 ## What I'm building
 
 [**Seoulstart**](https://seoulstart.com) is a practical, plain-language guide for people living in Korea on a foreign visa: visas, housing, insurance, taxes, and honest picks on the services and places that actually work. Published in six languages. I run the product, the content, and the AI pipeline behind it end to end.
+
